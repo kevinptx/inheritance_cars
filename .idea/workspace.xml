@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9db53b1d-8844-4928-9a56-b850fc592d63" name="Default Changelist" comment="" />
+    <list default="true" id="9db53b1d-8844-4928-9a56-b850fc592d63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance_cars/CarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_cars/CarEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/inheritance_cars/CarEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inheritance_cars/CarEngineTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +28,20 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yg7UxinyWT0g15NljDoiqOb1Ix" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
@@ -75,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583352403134</updated>
       <workItem from="1583352589072" duration="343000" />
+      <workItem from="1583353509524" duration="845000" />
     </task>
     <servers />
   </component>
@@ -94,5 +113,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="394" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583352519140" />
+    <state x="425" y="177" key="run.anything.popup" timestamp="1583353959746">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state x="425" y="177" key="run.anything.popup/0.0.1536.783@0.0.1536.783" timestamp="1583353959746" />
   </component>
 </project>

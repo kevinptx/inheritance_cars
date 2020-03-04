@@ -10,10 +10,6 @@ class CarEngineTest {
     void setUp() {
     }
 
-    @AfterEach
-    void tearDown() {
-    }
-}
 //## Inheritance with Java
 //
 //        ## Introduction
@@ -63,3 +59,7 @@ class CarEngineTest {
 //        - Be sure to use [BigDecimal](http://www.javapractices.com/topic/TopicAction.do?Id=13) since we'll be dealing with money.
 //        - Be sure to use TDD, OO modelling best practices, and [streams](https://www.sitepoint.com/java-8-streams-filter-map-reduce/)
 //        - Should any classes be abstract? If so, what is [your strategy](http://stackoverflow.com/questions/7569444/how-to-test-abstract-class-in-java-with-junit) for testing them?
+    @AfterEach
+    void tearDown() {
+    }
+}
