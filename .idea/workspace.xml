@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9db53b1d-8844-4928-9a56-b850fc592d63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance_cars/CarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_cars/CarEngine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/inheritance_cars/CarEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inheritance_cars/CarEngineTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.CarEngineTest.TestFullDescriptionsOnAllClasses">
     <configuration name="AppTest.appHasAGreeting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -76,8 +75,29 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="CarEngineTest.TestFullDescriptionsOnAllClasses" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CarEngineTest.TestFullDescriptionsOnAllClasses&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CarEngineTest.TestFullDescriptionsOnAllClasses" />
         <item itemvalue="Gradle.AppTest.appHasAGreeting" />
       </list>
     </recent_temporary>
@@ -94,6 +114,7 @@
       <updated>1583352403134</updated>
       <workItem from="1583352589072" duration="343000" />
       <workItem from="1583353509524" duration="845000" />
+      <workItem from="1583354805442" duration="581000" />
     </task>
     <servers />
   </component>
